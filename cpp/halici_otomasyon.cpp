@@ -8,10 +8,10 @@
 
 /* Rümeysa TATAR, 2112721031 ve halıcı otomasyonu */
 
-//menü, dosyalanan veriler üzerinde kayıt, arama, düzeltme,
-// silme, listeleme ve gerekiyorsa konuyla ilgili hesaplamaları
-// yapabilecek fonksiyonlardan oluşmalıdır.
-
+/*menü, dosyalanan veriler üzerinde kayıt, arama, düzeltme,
+ silme, listeleme ve gerekiyorsa konuyla ilgili hesaplamaları
+ yapabilecek fonksiyonlardan oluşmalıdır.
+*/
 
 using namespace std;
 
